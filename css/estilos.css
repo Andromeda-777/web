@@ -1,0 +1,40 @@
+.typ {
+	text-align: center;
+  font-family: "Nunito Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+footer{
+	text-align: center;
+	background-color: ;
+	color: black;
+	font-weight: 30;
+
+	padding-top: 3%;
+	padding-bottom: 3%;
+
+}
+
+p{
+	text-align: center;
+}
+
+section {
+  margin-bottom: 60px;
+}
+
+
+.contacto {
+  padding: 80px;
+  text-align: center;
+}
+
+.info-contacto p {
+  margin: 15px 0;
+}
+
+a:hover {
+  text-decoration: underline;
+  opacity: 0.7;
+}
